@@ -67,4 +67,4 @@ Previously, I worked on **RAG and LLM-based systems**, shipping internal AI tool
 ## Contact
 
 - Website: https://tomnguyen.work  
-- Email: your-email-here  
+- Email: tomnguyen6766@gmail.com  
