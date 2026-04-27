@@ -28,8 +28,11 @@ Previously, I worked on **RAG and LLM-based systems**, shipping internal AI tool
 ## What I’m Working On
 
 - **TTorch** — a PyTorch-style deep learning framework in C++  
-  → focused on understanding autograd, training loops, and systems from first principles  
-
+  → focused on understanding autograd, training loops, and systems from first principles
+  
+- **Robotics** - I'm learning Robotics as a software and brain trainer.
+  → concentration on humanoid robots and movement researches.
+  
 - **AI Systems (RAG / LLMs)**  
   → building and deploying practical AI pipelines  
 
